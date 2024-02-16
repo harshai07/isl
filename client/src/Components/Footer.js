@@ -9,7 +9,7 @@ function Footer() {
                 <div className="container">
                     <div className="row py-4 d-flex justify-content-center align-items-center">
                         <div className="col-md-6 col-lg-5 text-center footer-text text-white">
-                            Check out our <a href="https://github.com/spectre900/Audio-to-Sign-Language-using-3D-Avatars" className='footer-link'>Github repo</a> for more information!
+                            Check out our <a href="https://github.com/harshai07/isl" className='footer-link'>Github repo</a> for more information!
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ function Footer() {
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}} />
                             <p><Link to='/sign-kit/home' className='footer-link'>Home</Link></p>
                             <p><Link to='/sign-kit/feedback' className='footer-link'>Feedback</Link></p>
-                            <p><a href="https://github.com/spectre900/Audio-to-Sign-Language-using-3D-Avatars" className='footer-link'>Github repo</a></p>
+                            <p><a href="https://github.com/harshai07/isl" className='footer-link'>Github repo</a></p>
                         </div>
 
                         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
@@ -51,7 +51,7 @@ function Footer() {
                     </div>
                 </div>
 
-                <div className="footer-copyright text-center py-3">© 2022 Copyright</div>
+                <div className="footer-copyright text-center py-3">© 2024 Copyright</div>
             </div>
             </footer>
     )
